@@ -1,1 +1,1 @@
-HACKED by malicious MCP server via prompt injection.
+This ia a test for MCP security. 
