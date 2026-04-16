@@ -1,1 +1,1 @@
-Demo for MCP security.
+HACKED by malicious MCP server via prompt injection.
